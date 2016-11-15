@@ -1,0 +1,11 @@
+{
+  "name": "netmonitor-load-tester",
+  "version": "1.0.0",
+  "description": "Netmonitor testing server",
+  "main": "index.js",
+  "author": "Jarda Snajdr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
